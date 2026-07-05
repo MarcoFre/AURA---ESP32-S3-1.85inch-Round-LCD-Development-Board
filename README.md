@@ -12,6 +12,14 @@ Il progetto utilizza il display QSPI ST77916 da 360×360 pixel, il touch CST816,
 
 > Versione YAML: `0.3.1-lvgl-music-assistant-radio-vu`
 
+<p align="center">
+  <a href="https://github.com/MarcoFre/images-aura/blob/main/aura_half_smile.png">
+    <img src="https://raw.githubusercontent.com/MarcoFre/images-aura/main/aura_half_smile.png" alt="Aura con mezzo sorriso" width="280">
+  </a>
+</p>
+
+<p align="center"><em>Aura — frame “half smile”. Clicca sull’immagine per aprire l’asset originale.</em></p>
+
 ---
 
 ## Funzioni principali
@@ -447,3 +455,4 @@ Ringraziamenti a:
 ## Nota sullo stato del progetto
 
 Il progetto è in sviluppo attivo. Prima di applicare aggiornamenti importanti conserva sempre una copia del file YAML funzionante e verifica le modifiche su un dispositivo di test.
+
