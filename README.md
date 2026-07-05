@@ -35,7 +35,7 @@ Un satellite vocale per **Home Assistant** basato su **ESPHome**, con interfacci
 | **Interfaccia grafica** | LVGL |
 | **Integrazione domotica** | Home Assistant Voice Assistant |
 | **Integrazione musicale** | Music Assistant |
-| **Versione YAML** | `0.3.1-lvgl-music-assistant-radio-vu` |
+| **Versione YAML** | `6.0-lvgl-music-assistant-radio-vu` |
 
 > [!IMPORTANT]
 > Questo firmware è pensato per la variante con display **ST77916 / JC3636W518V2**, touch **CST816T**, codec audio **ES8311** e microfoni tramite **ES7210**. Prima di compilare, verifica la revisione hardware della board.
