@@ -7,19 +7,19 @@
 substitutions:
   device_name: home-assistant-aura-speaker-01
   friendly:   "Aura-Speaker-01"
-  fw_version: "0.3.1-lvgl-music-assistant-radio-vu"
+  fw_version: "0.3.1-lvgl-voice-music-assistant"
 
   # -------- SECURITY --------
-  password:   "aaaaaaaaaaaaafffffffffffff"
+  password:   "WiFi Password"
   api_key:    "CiNgQqOfbti7EO2MJWx+lGptEgBe9O2YHfdgdts26U4="
   ota_key:    "777947954e176a894bb4402f586e789c"
 
   # -------- WiFi --------
-  ip:           "192.168.31.152"
-  gateway:      "192.168.31.1"
-  subnet:       "255.255.255.0"
-  dns:          "192.168.1.1"
-  ssid:         "internet_r"
+  ip:         "192.168.xxx.xxx"
+  gateway:    "192.168.xxx.xxx"
+  subnet:     "255.255.255.0"
+  dns:        "192.168.xxx.xxx"
+  ssid:       "WiFi SSID"  
   hidden_ssid:  "false"
 
   # -------- Music Assistant --------
