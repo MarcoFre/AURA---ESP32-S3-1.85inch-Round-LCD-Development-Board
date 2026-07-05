@@ -7,7 +7,7 @@
 substitutions:
   device_name: home-assistant-aura-speaker-01
   friendly:   "Aura-Speaker-01"
-  fw_version: "0.3.1-lvgl-voice-music-assistant"
+  fw_version: "6.0-lvgl-voice-music-assistant"
 
   # -------- SECURITY --------
   password:   "WiFi Password"
